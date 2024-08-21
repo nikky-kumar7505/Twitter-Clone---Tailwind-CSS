@@ -1,2 +1,6 @@
-# Twitter-Clone---using Tailwind-CSS
-Just add index all files in VS code and run `npm run dev` Commaand to run the project
+# Twitter-Clone --using Tailwind-CSS
+
+To run project:-
+step-1 Run command `npm i`
+step-2 Run command `npn run dev`
+
